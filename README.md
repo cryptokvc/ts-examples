@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [parcours documentaire en français](docs/fr/) analyse les décimales, les ordres, les signatures et la frontière Hyperliquid–HyperEVM.
+
 # ts-examples
 
 Sample scripts/snippets for computing various frontend values. Refer to [@nktas/hyperliquid](https://github.com/nktkas/hyperliquid) or [hyperliquid-ts-sdk](https://github.com/nomeida/hyperliquid) for Typescript SDKs written by a member of the community.
